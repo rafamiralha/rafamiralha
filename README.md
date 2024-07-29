@@ -1,4 +1,12 @@
-## Hi there 👋
+# :mag: About me:
+My name is Rafael, I'm from São Paulo, Brazil.
+
+## :desktop_computer: Technologies that I know:
+
+- :gear: JavaScript;
+- :gear: HTML/CSS;
+- :atom_symbol: REACT;
+- :a: Angular.
 
 <!--
 **rafamiralha/rafamiralha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
